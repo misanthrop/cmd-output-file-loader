@@ -13,6 +13,7 @@
     "author": "Wheel Labs",
     "license": "MIT",
     "devDependencies": {
-        "coffeescript": "^2.0.0"
+        "coffeescript": "^2.0.0",
+        "loader-utils": "^1.1.0"
     }
 }
